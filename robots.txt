@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ginstenges.github.io/sitemap.html.gz
+Sitemap: https://ginstenges.github.io/app/sitemap.html.gz
+Sitemap: https://ginstenges.github.io/assets/sitemap.html.gz
+Sitemap: https://ginstenges.github.io/css/sitemap.html.gz
+Sitemap: https://ginstenges.github.io/includes/sitemap.html.gz
+Sitemap: https://ginstenges.github.io/item/sitemap.html.gz
+Sitemap: https://ginstenges.github.io/src/sitemap.html.gz
